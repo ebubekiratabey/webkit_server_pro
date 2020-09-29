@@ -37,6 +37,8 @@ issue on [Github](https://github.com/niklasb/webkit-server) or open a pull
 request or write a mail to **niklas 
 baumstark at Gmail**.
 
+I just adjust a small bug and republish it :)
+
 # License
 
 This software is based on [capybara-webkit][1].
@@ -47,3 +49,5 @@ may be redistributed under the terms specified in the LICENSE file.
  [2]: https://github.com/thoughtbot/capybara-webkit/pull/171
  [3]: https://github.com/thoughtbot/capybara-webkit/pull/170
  [4]: https://github.com/niklasb/dryscrape
+ [5]: https://github.com/ebubekiratabey/webkit_server_pro
+ 
